@@ -1,1 +1,4 @@
-# proyecto-progra-avanzada
+# Proyecto Progra Avanzada
+
+## Integrantes:
+- Diego Naranjo Meza
