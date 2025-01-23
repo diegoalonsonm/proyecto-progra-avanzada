@@ -2,3 +2,5 @@
 
 ## Integrantes:
 - Diego Naranjo Meza
+- Marco Bruno Lobo
+  
