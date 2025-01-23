@@ -1,7 +1,7 @@
 # Proyecto Progra Avanzada
 
 ## Integrantes:
-- Diego Naranjo Meza
+- Diego Alonso Naranjo Meza
 - Marco Bruno Lobo
 - Emanuel Fernandez Apuy 
   
